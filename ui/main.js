@@ -11,3 +11,5 @@ img.onclick = function () {
     var interval = setInterval(marginRight,100);
     
 }:
+\\create the hyperlink.
+<a herf="www.google.com">click</a>
